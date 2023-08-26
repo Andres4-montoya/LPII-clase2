@@ -1,0 +1,40 @@
+.pequeno{
+    font-size: 20px ;
+     background-color:red;
+     width: 200px;
+     height: 200px      ;   
+}
+
+
+#primer-h1{
+    color: aqua;
+}
+html{
+    font-size: 80px;
+}
+
+#div-ejemplos{
+    position: relative;
+    margin-top: 30px;
+    border: 5px solid black;
+    width: 50vw;
+    font-size: 10px;
+  
+}
+
+#div-ejemplos div{
+    padding-bottom: 10%;
+    font-size: 5em;
+}
+#blue{
+    background-color: blue;
+    width: 10% ;
+}
+#green{
+    background-color: green;
+    width: 30%;
+}
+#red{
+    background-color: red;
+    width: 50%;
+}
